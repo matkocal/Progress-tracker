@@ -6,7 +6,7 @@ Simple graphical progress tracker.
 2. Program reads a new data pair from console:
 
    - date in format YYYY-MM-DD
-   - value in range 1-100
+   - value in range 1-20
 
 3. Program adds new data pair, add it to variable `progress_values` and saves it to the existing values in `progress_values.json` and saves it
 
